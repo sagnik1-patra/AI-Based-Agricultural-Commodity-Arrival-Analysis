@@ -1,0 +1,47 @@
+{
+    "project_name": "AI-Based Agricultural Commodity Arrival Analysis",
+    "algorithm": "AIS Clonal Selection",
+    "created_at": "2026-11-16T06:52:47.705312+00:00",
+    "dataset_records": 690,
+    "training_records": 552,
+    "testing_records": 138,
+    "features": [
+        "District",
+        "Block",
+        "Market",
+        "Month",
+        "Commodity",
+        "Year"
+    ],
+    "target": "Arrival",
+    "target_unit": "Quintals",
+    "best_hyperparameters": {
+        "n_estimators": 231,
+        "max_depth": 29,
+        "min_samples_split": 15,
+        "min_samples_leaf": 1,
+        "max_features": 0.572887640375353
+    },
+    "best_cv_log_rmse": 0.9229492516194185,
+    "test_metrics": {
+        "MAE": 483.39444576858995,
+        "RMSE": 1394.6847606390083,
+        "R2": 0.5968133954376866
+    },
+    "comparison_results": [
+        {
+            "Model": "AIS Optimized Random Forest",
+            "MAE": 483.39444576858995,
+            "RMSE": 1394.6847606390083,
+            "R2": 0.5968133954376866
+        },
+        {
+            "Model": "Baseline Best ML",
+            "MAE": 504.059650866711,
+            "RMSE": 1389.8807934584258,
+            "R2": 0.5995861502131714
+        }
+    ],
+    "evaluation_method": "Held-out random 80/20 split",
+    "note": "AIS optimizes Random Forest parameters using training-set cross-validation. The test set is used for final evaluation."
+}

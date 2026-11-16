@@ -1,0 +1,31 @@
+project_name: AI-Based Agricultural Commodity Arrival Analysis
+dataset: C:\Users\sagni\Downloads\AI-Based Agricultural Commodity Arrival Analysis\megamb_data_for_2012_n.xls
+target_column: Arrival
+categorical_features:
+- District
+- Block
+- Market
+- Month
+- Commodity
+numerical_features:
+- Year
+test_size: 0.2
+random_state: 42
+target_transformation: log1p
+prediction_inverse_transformation: expm1
+models:
+- Ridge Regression
+- Random Forest
+- Gradient Boosting
+- Extra Trees
+- Neural Network
+best_ml_model: Random Forest
+evaluation_metrics:
+- MAE
+- RMSE
+- R2
+artifacts:
+  ml_model: agricultural_model.pkl
+  neural_model: agricultural_model.h5
+  nn_preprocessor: preprocessor.pkl
+  metadata: model_metadata.json

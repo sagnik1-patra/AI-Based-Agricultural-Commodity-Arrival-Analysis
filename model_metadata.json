@@ -1,0 +1,70 @@
+{
+    "project_name": "AI-Based Agricultural Commodity Arrival Analysis",
+    "created_at": "2026-11-16T06:31:43.481261+00:00",
+    "dataset_name": "megamb_data_for_2012_n.xls",
+    "total_records": 690,
+    "training_records": 552,
+    "testing_records": 138,
+    "district_count": 4,
+    "market_count": 6,
+    "commodity_count": 55,
+    "year_values": [
+        2012
+    ],
+    "features": [
+        "District",
+        "Block",
+        "Market",
+        "Month",
+        "Commodity",
+        "Year"
+    ],
+    "target": "Arrival",
+    "target_unit": "Quintals",
+    "best_ml_model": "Random Forest",
+    "best_ml_metrics": {
+        "MAE": 504.059650866711,
+        "RMSE": 1389.8807934584268,
+        "R2": 0.599586150213171
+    },
+    "neural_network_metrics": {
+        "MAE": 483.4622497558594,
+        "RMSE": 1701.958210415285,
+        "R2": 0.3995845913887024
+    },
+    "neural_network_epochs": 52,
+    "model_comparison": [
+        {
+            "Model": "Random Forest",
+            "MAE": 504.059650866711,
+            "RMSE": 1389.8807934584268,
+            "R2": 0.599586150213171
+        },
+        {
+            "Model": "Ridge Regression",
+            "MAE": 531.9050230093858,
+            "RMSE": 1556.831349600457,
+            "R2": 0.4976144720550175
+        },
+        {
+            "Model": "Gradient Boosting",
+            "MAE": 510.7199954569935,
+            "RMSE": 1599.7628775371395,
+            "R2": 0.4695246435999184
+        },
+        {
+            "Model": "Neural Network",
+            "MAE": 483.4622497558594,
+            "RMSE": 1701.958210415285,
+            "R2": 0.3995845913887024
+        },
+        {
+            "Model": "Extra Trees",
+            "MAE": 1242.8992755010595,
+            "RMSE": 7200.348913925021,
+            "R2": -9.746352140749643
+        }
+    ],
+    "evaluation_method": "Random 80/20 held-out record split",
+    "forecasting_limitation": "This evaluation does not establish future-year forecasting accuracy."
+}

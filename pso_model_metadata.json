@@ -1,0 +1,53 @@
+{
+    "project_name": "AI-Based Agricultural Commodity Arrival Analysis",
+    "algorithm": "Particle Swarm Optimization",
+    "created_at": "2026-11-16T06:56:13.790521+00:00",
+    "dataset_records": 690,
+    "training_records": 552,
+    "testing_records": 138,
+    "features": [
+        "District",
+        "Block",
+        "Market",
+        "Month",
+        "Commodity",
+        "Year"
+    ],
+    "target": "Arrival",
+    "target_unit": "Quintals",
+    "best_hyperparameters": {
+        "n_estimators": 249,
+        "max_depth": 23,
+        "min_samples_split": 7,
+        "min_samples_leaf": 1,
+        "max_features": 0.7903438454510725
+    },
+    "best_cv_log_rmse": 0.923944385076191,
+    "test_metrics": {
+        "MAE": 496.18536927499594,
+        "RMSE": 1405.8800027578288,
+        "R2": 0.5903145965956602
+    },
+    "comparison_results": [
+        {
+            "Model": "PSO Optimized Random Forest",
+            "MAE": 496.18536927499594,
+            "RMSE": 1405.8800027578288,
+            "R2": 0.5903145965956602
+        },
+        {
+            "Model": "Baseline Best ML",
+            "MAE": 504.0596508667119,
+            "RMSE": 1389.8807934584288,
+            "R2": 0.5995861502131699
+        },
+        {
+            "Model": "AIS Optimized Random Forest",
+            "MAE": 483.3944457685903,
+            "RMSE": 1394.6847606390108,
+            "R2": 0.5968133954376852
+        }
+    ],
+    "evaluation_method": "Held-out random 80/20 split",
+    "note": "PSO optimizes Random Forest hyperparameters using cross-validation on training data. The test set is used for final evaluation."
+}

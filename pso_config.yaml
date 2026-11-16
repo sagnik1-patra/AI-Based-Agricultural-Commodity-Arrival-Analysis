@@ -1,0 +1,29 @@
+project_name: AI-Based Agricultural Commodity Arrival Analysis
+optimization_algorithm: Particle Swarm Optimization
+dataset: C:\Users\sagni\Downloads\AI-Based Agricultural Commodity Arrival Analysis\megamb_data_for_2012_n.xls
+target: Arrival
+target_unit: Quintals
+features:
+- District
+- Block
+- Market
+- Month
+- Commodity
+- Year
+random_state: 42
+test_size: 0.2
+cross_validation_folds: 3
+number_of_particles: 8
+number_of_iterations: 10
+inertia_weight: 0.7
+cognitive_coefficient: 1.5
+social_coefficient: 1.5
+fitness_metric: Cross-validated log-space RMSE
+best_hyperparameters:
+  n_estimators: 249
+  max_depth: 23
+  min_samples_split: 7
+  min_samples_leaf: 1
+  max_features: 0.7903438454510725
+best_cv_log_rmse: 0.923944385076191
+model_file: pso_agricultural_model.pkl

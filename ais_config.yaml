@@ -1,0 +1,29 @@
+project_name: AI-Based Agricultural Commodity Arrival Analysis
+optimization_algorithm: Artificial Immune System - Clonal Selection
+dataset: C:\Users\sagni\Downloads\AI-Based Agricultural Commodity Arrival Analysis\megamb_data_for_2012_n.xls
+target: Arrival
+target_unit: Quintals
+features:
+- District
+- Block
+- Market
+- Month
+- Commodity
+- Year
+random_state: 42
+test_size: 0.2
+population_size: 8
+generations: 8
+top_antibodies: 4
+clones_per_antibody: 3
+random_new_antibodies: 2
+cross_validation_folds: 3
+fitness_metric: Cross-validated log-space RMSE
+best_hyperparameters:
+  n_estimators: 231
+  max_depth: 29
+  min_samples_split: 15
+  min_samples_leaf: 1
+  max_features: 0.572887640375353
+best_cv_log_rmse: 0.9229492516194185
+model_file: ais_agricultural_model.pkl

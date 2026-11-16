@@ -1,0 +1,691 @@
+District,Block,Market,Month,Commodity,Year,Actual_Arrival,AIS_Predicted_Arrival,Absolute_Error
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Arecanut,2012,5400,5027.569260260314,372.43073973968603
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Banana,2012,405,566.6098161888311,161.60981618883113
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,BetelVine,2012,1945,2330.368299810184,385.368299810184
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Cabbage,2012,540,2895.580297443775,2355.580297443775
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Carrot,2012,20,249.31374968770893,229.31374968770893
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Cauliflower,2012,490,535.2186114569191,45.21861145691912
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Fish,2012,6230,4672.401929064587,1557.5980709354126
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Ginger,2012,553,457.59500435877374,95.40499564122626
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Lettuce,2012,102,80.8354247534028,21.164575246597195
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Mustard,2012,197,121.26282358862844,75.73717641137156
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Orange,2012,1110,286.0154781191039,823.9845218808962
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Pea,2012,70,87.06174436891625,17.06174436891625
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Potato,2012,520,2416.165112134606,1896.1651121346058
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Pumpkin,2012,320,175.74235207785406,144.25764792214594
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Radish,2012,662,704.6933585905196,42.69335859051955
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Rice,2012,175,130.8359297128745,44.1640702871255
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jan,Turnip,2012,69,68.89649716626226,0.1035028337377355
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jan,Broomstick,2012,2326,7754.04654505171,5428.04654505171
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jan,Tezpatta,2012,12328,6485.138612478179,5842.861387521821
+Jaintia Hills,Thadlaskein,Jowai,Jan,Arecanut,2012,337,283.19570447234076,53.804295527659235
+Jaintia Hills,Thadlaskein,Jowai,Jan,Banana,2012,9,12.04904267471648,3.04904267471648
+Jaintia Hills,Thadlaskein,Jowai,Jan,BetelVine,2012,159,113.67861678477098,45.32138321522902
+Jaintia Hills,Thadlaskein,Jowai,Jan,Brinjal,2012,11,12.101821344809599,1.1018213448095988
+Jaintia Hills,Thadlaskein,Jowai,Jan,Cabbage,2012,10,13.10814030165534,3.1081403016553395
+Jaintia Hills,Thadlaskein,Jowai,Jan,Carrot,2012,9,11.412296180334883,2.4122961803348826
+Jaintia Hills,Thadlaskein,Jowai,Jan,Cauliflower,2012,16,13.791671770873462,2.208328229126538
+Jaintia Hills,Thadlaskein,Jowai,Jan,Coriander,2012,52,7.325080800448161,44.67491919955184
+Jaintia Hills,Thadlaskein,Jowai,Jan,Garlic,2012,42,4.488048246111664,37.51195175388833
+Jaintia Hills,Thadlaskein,Jowai,Jan,Ginger,2012,5,8.157368713565765,3.1573687135657647
+Jaintia Hills,Thadlaskein,Jowai,Jan,Leafy Vegetables,2012,4,7.1465226304037905,3.1465226304037905
+Jaintia Hills,Thadlaskein,Jowai,Jan,Lemon,2012,3,11.745797950664018,8.745797950664018
+Jaintia Hills,Thadlaskein,Jowai,Jan,Orange,2012,148,13.691991079857235,134.30800892014275
+Jaintia Hills,Thadlaskein,Jowai,Jan,Potato,2012,14,21.792639303597312,7.792639303597312
+Jaintia Hills,Thadlaskein,Jowai,Jan,Radish,2012,8,8.758008738123793,0.7580087381237934
+Jaintia Hills,Thadlaskein,Jowai,Jan,Tomato,2012,18,25.826847428208495,7.826847428208495
+Jaintia Hills,Thadlaskein,Jowai,Jan,Turmeric,2012,2,2.098393646881425,0.09839364688142505
+Jaintia Hills,Thadlaskein,Jowai,Jan,Turmeric(Powder),2012,2,1.7227358844790635,0.27726411552093655
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Arecanut,2012,570,442.781362524494,127.218637475506
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Brinjal,2012,230,186.37501996886095,43.624980031139046
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Cabbage,2012,300,175.05960570271796,124.94039429728204
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Cauliflower,2012,280,172.89785658703113,107.10214341296887
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Chilli,2012,80,27.05987413899121,52.940125861008795
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Garlic,2012,40,34.486869750972446,5.513130249027554
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Ginger,2012,530,300.97185478487825,229.02814521512175
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Onion,2012,260,201.21788982321098,58.78211017678902
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Orange,2012,120,176.40221713096165,56.402217130961645
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Potato,2012,720,575.6725685356544,144.32743146434564
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Radish,2012,120,105.78843043117608,14.211569568823919
+West Garo Hills,Selsella,Garobadha Regulated Market,Jan,Tomato,2012,170,155.55217850435557,14.447821495644433
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Arecanut,2012,5205,5027.569260260314,177.43073973968603
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Banana,2012,357,600.2235000559722,243.22350005597218
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,BetelVine,2012,1525,2330.368299810184,805.368299810184
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Fish,2012,4530,4750.9241206234765,220.92412062347648
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Ginger,2012,274,488.88437066181694,214.88437066181694
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Lettuce,2012,106,81.71560902710335,24.284390972896645
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Mustard,2012,148,134.20942145909757,13.79057854090243
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Orange,2012,665,359.49001669794245,305.50998330205755
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Pumpkin,2012,162,213.38165387810886,51.381653878108864
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Radish,2012,217,724.6105169904162,507.61051699041616
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Rice,2012,147,152.36471341548517,5.36471341548517
+East Khasi Hills,Mylliem,Iewduh(Shillong),Feb,Turnip,2012,54,72.06298874786297,18.062988747862974
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Feb,Broomstick,2012,52230,8800.403666703376,43429.59633329662
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Feb,Tezpatta,2012,11192,7469.966488980734,3722.0335110192664
+Jaintia Hills,Thadlaskein,Jowai,Feb,Arecanut,2012,550,288.8898177533901,261.1101822466099
+Jaintia Hills,Thadlaskein,Jowai,Feb,Banana,2012,6,9.090470346747544,3.0904703467475443
+Jaintia Hills,Thadlaskein,Jowai,Feb,Beetroot,2012,20,3.8716504517106616,16.12834954828934
+Jaintia Hills,Thadlaskein,Jowai,Feb,BetelVine,2012,130,118.0721662030859,11.9278337969141
+Jaintia Hills,Thadlaskein,Jowai,Feb,Brinjal,2012,12,9.420581916161007,2.579418083838993
+Jaintia Hills,Thadlaskein,Jowai,Feb,Cabbage,2012,13,11.187472107091976,1.8125278929080242
+Jaintia Hills,Thadlaskein,Jowai,Feb,Carrot,2012,7,8.609862554655288,1.6098625546552885
+Jaintia Hills,Thadlaskein,Jowai,Feb,Cauliflower,2012,11,11.02494443726759,0.024944437267590658
+Jaintia Hills,Thadlaskein,Jowai,Feb,Coriander,2012,7,3.784710171719497,3.215289828280503
+Jaintia Hills,Thadlaskein,Jowai,Feb,FrenchBeans,2012,9,9.392297413505927,0.3922974135059274
+Jaintia Hills,Thadlaskein,Jowai,Feb,Garlic,2012,30,2.5419916410242167,27.458008358975782
+Jaintia Hills,Thadlaskein,Jowai,Feb,Ginger,2012,50,8.691489682306006,41.308510317693994
+Jaintia Hills,Thadlaskein,Jowai,Feb,Leafy Vegetables,2012,6,5.38133815249445,0.6186618475055496
+Jaintia Hills,Thadlaskein,Jowai,Feb,Lemon,2012,3,8.920217792430462,5.920217792430462
+Jaintia Hills,Thadlaskein,Jowai,Feb,Orange,2012,114,11.22771544275889,102.77228455724111
+Jaintia Hills,Thadlaskein,Jowai,Feb,Potato,2012,20,21.82895140058406,1.8289514005840601
+Jaintia Hills,Thadlaskein,Jowai,Feb,Radish,2012,1,5.087053726952855,4.087053726952855
+Jaintia Hills,Thadlaskein,Jowai,Feb,Rice,2012,4,6.897332455234482,2.8973324552344817
+Jaintia Hills,Thadlaskein,Jowai,Feb,Tomato,2012,35,26.390052286257202,8.609947713742798
+Jaintia Hills,Thadlaskein,Jowai,Feb,Turmeric,2012,3,1.4068096569289472,1.5931903430710528
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Arecanut,2012,650,443.73797452587604,206.26202547412396
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Brinjal,2012,200,177.9756788303407,22.024321169659288
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Cabbage,2012,280,179.94334417577613,100.05665582422387
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Cauliflower,2012,260,154.0130547425461,105.9869452574539
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Chilli,2012,100,26.68182488437776,73.31817511562224
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Garlic,2012,50,34.53650566216034,15.463494337839663
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Ginger,2012,660,302.0429158538546,357.9570841461454
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Onion,2012,280,194.34963570556198,85.65036429443802
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Potato,2012,700,577.5898826901356,122.4101173098644
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Radish,2012,40,90.76238541222484,50.762385412224845
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Tomato,2012,220,153.10910655635257,66.89089344364743
+West Garo Hills,Selsella,Garobadha Regulated Market,Feb,Turmeric,2012,120,197.65737252348836,77.65737252348836
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Arecanut,2012,5300,4912.475453988017,387.52454601198315
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Banana,2012,395,339.55076659791104,55.449233402088964
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,BetelVine,2012,1470,2037.1485576552097,567.1485576552097
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Fish,2012,6130,4068.5443335503596,2061.4556664496404
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Ginger,2012,189,273.41943573351233,84.41943573351233
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Lettuce,2012,103,71.07648298266741,31.923517017332586
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Mustard,2012,87,92.82397429680874,5.823974296808743
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Orange,2012,457,209.02737434362126,247.97262565637874
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Pumpkin,2012,102,115.55549684256138,13.555496842561382
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Radish,2012,9,263.73040987868364,254.73040987868364
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Rice,2012,133,100.30357505424686,32.69642494575314
+East Khasi Hills,Mylliem,Iewduh(Shillong),Mar,Turnip,2012,1,57.88461101334747,56.88461101334747
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Mar,Broomstick,2012,85424,9803.724575348333,75620.27542465167
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Mar,Tezpatta,2012,6132,8352.281471561875,2220.281471561875
+Jaintia Hills,Thadlaskein,Jowai,Mar,Arecanut,2012,455,276.3165869888022,178.68341301119779
+Jaintia Hills,Thadlaskein,Jowai,Mar,Banana,2012,8,7.343774860923819,0.6562251390761809
+Jaintia Hills,Thadlaskein,Jowai,Mar,Beetroot,2012,1,2.9196360746427588,1.9196360746427588
+Jaintia Hills,Thadlaskein,Jowai,Mar,BetelVine,2012,140,114.49578504113148,25.504214958868516
+Jaintia Hills,Thadlaskein,Jowai,Mar,Brinjal,2012,8,7.2465327808415125,0.7534672191584875
+Jaintia Hills,Thadlaskein,Jowai,Mar,Cabbage,2012,15,8.899818618486478,6.100181381513522
+Jaintia Hills,Thadlaskein,Jowai,Mar,Carrot,2012,7,6.508318364396401,0.4916816356035989
+Jaintia Hills,Thadlaskein,Jowai,Mar,Cauliflower,2012,11,9.134064728207116,1.8659352717928837
+Jaintia Hills,Thadlaskein,Jowai,Mar,Coriander,2012,0,2.745214452511161,2.745214452511161
+Jaintia Hills,Thadlaskein,Jowai,Mar,Garlic,2012,0,1.7156756656812457,1.7156756656812457
+Jaintia Hills,Thadlaskein,Jowai,Mar,Ginger,2012,2,4.039648318421839,2.039648318421839
+Jaintia Hills,Thadlaskein,Jowai,Mar,Leafy Vegetables,2012,5,3.8235047837597556,1.1764952162402444
+Jaintia Hills,Thadlaskein,Jowai,Mar,Orange,2012,12,9.144703796320437,2.855296203679563
+Jaintia Hills,Thadlaskein,Jowai,Mar,Potato,2012,20,19.62723285785738,0.37276714214262086
+Jaintia Hills,Thadlaskein,Jowai,Mar,Pumpkin,2012,0,1.165676339564505,1.165676339564505
+Jaintia Hills,Thadlaskein,Jowai,Mar,Tomato,2012,32,24.531661311579068,7.468338688420932
+Jaintia Hills,Thadlaskein,Jowai,Mar,Turmeric,2012,0,1.2791582398541004,1.2791582398541004
+Jaintia Hills,Thadlaskein,Jowai,Mar,Turmeric(Powder),2012,0,1.0815870105914156,1.0815870105914156
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Arecanut,2012,690,442.0508963613711,247.9491036386289
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Brinjal,2012,250,275.92576856104125,25.925768561041252
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Cabbage,2012,290,266.56600959781974,23.433990402180257
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Cauliflower,2012,230,260.73508974857623,30.73508974857623
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Chilli,2012,80,31.402237207497663,48.59776279250234
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Garlic,2012,40,48.71528166005349,8.715281660053492
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Ginger,2012,760,326.92375589932334,433.07624410067666
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Onion,2012,360,278.70582936121804,81.29417063878196
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Potato,2012,730,571.4753967632461,158.52460323675393
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Tomato,2012,260,245.5487102338347,14.451289766165303
+West Garo Hills,Selsella,Garobadha Regulated Market,Mar,Turmeric,2012,420,291.07681273088184,128.92318726911816
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Arecanut,2012,4580,4924.362574393548,344.36257439354813
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Banana,2012,334,275.88114964104454,58.118850358955456
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,BetelVine,2012,1180,2221.924315856519,1041.9243158565191
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Fish,2012,4280,4400.788491335774,120.78849133577387
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,FrenchBeans,2012,11,59.30572922759902,48.30572922759902
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Ginger,2012,188,221.14385011904562,33.143850119045624
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Lettuce,2012,103,62.971147959559644,40.028852040440356
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Mustard,2012,75,54.72690835276792,20.27309164723208
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Orange,2012,25,74.33039506835499,49.33039506835499
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Pumpkin,2012,94,65.14103924751056,28.858960752489438
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Rice,2012,110,57.4612185460133,52.5387814539867
+East Khasi Hills,Mylliem,Iewduh(Shillong),Apr,Tomato,2012,260,1237.7636843071411,977.7636843071411
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Apr,Broomstick,2012,30905,7830.548810210662,23074.45118978934
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Apr,Tezpatta,2012,5493,6439.971152093472,946.9711520934716
+Jaintia Hills,Thadlaskein,Jowai,Apr,Arecanut,2012,480,271.6712037214343,208.32879627856568
+Jaintia Hills,Thadlaskein,Jowai,Apr,Banana,2012,9,6.199602871810087,2.800397128189913
+Jaintia Hills,Thadlaskein,Jowai,Apr,Beetroot,2012,1,2.7369349689852105,1.7369349689852105
+Jaintia Hills,Thadlaskein,Jowai,Apr,BetelVine,2012,110,107.54202021168047,2.457979788319534
+Jaintia Hills,Thadlaskein,Jowai,Apr,Brinjal,2012,6,5.91430791136199,0.0856920886380097
+Jaintia Hills,Thadlaskein,Jowai,Apr,Cabbage,2012,13,7.182487698649108,5.817512301350892
+Jaintia Hills,Thadlaskein,Jowai,Apr,Carrot,2012,7,5.435904312390225,1.5640956876097754
+Jaintia Hills,Thadlaskein,Jowai,Apr,Cauliflower,2012,12,7.695098830706103,4.304901169293897
+Jaintia Hills,Thadlaskein,Jowai,Apr,Coriander,2012,2,2.6173547084197697,0.6173547084197697
+Jaintia Hills,Thadlaskein,Jowai,Apr,FrenchBeans,2012,8,5.872340830869035,2.1276591691309648
+Jaintia Hills,Thadlaskein,Jowai,Apr,Garlic,2012,0,1.3442571757929729,1.3442571757929729
+Jaintia Hills,Thadlaskein,Jowai,Apr,Ginger,2012,0,3.4503499765325136,3.4503499765325136
+Jaintia Hills,Thadlaskein,Jowai,Apr,Leafy Vegetables,2012,5,3.301815934853847,1.6981840651461528
+Jaintia Hills,Thadlaskein,Jowai,Apr,Potato,2012,21,18.382803530195364,2.617196469804636
+Jaintia Hills,Thadlaskein,Jowai,Apr,Tomato,2012,29,23.033850228805658,5.966149771194342
+Jaintia Hills,Thadlaskein,Jowai,Apr,Turmeric(Powder),2012,0,1.0844225187619259,1.0844225187619259
+Ri-Bhoi,Umsning,Umsning,Apr,Banana,2012,19,6.912704821184558,12.087295178815442
+Ri-Bhoi,Umsning,Umsning,Apr,BetelVine,2012,8,11.342874257166413,3.3428742571664127
+Ri-Bhoi,Umsning,Umsning,Apr,Cabbage,2012,1,6.316890706264342,5.316890706264342
+Ri-Bhoi,Umsning,Umsning,Apr,Capsicum,2012,5,6.462295087651511,1.462295087651511
+Ri-Bhoi,Umsning,Umsning,Apr,Chilli,2012,3,6.340635701891759,3.3406357018917587
+Ri-Bhoi,Umsning,Umsning,Apr,FrenchBeans,2012,4,6.417863300995677,2.417863300995677
+Ri-Bhoi,Umsning,Umsning,Apr,Ginger,2012,9,6.516838944272008,2.483161055727992
+Ri-Bhoi,Umsning,Umsning,Apr,Papaya,2012,1,5.749190382332507,4.749190382332507
+Ri-Bhoi,Umsning,Umsning,Apr,Tomato,2012,4,8.724992109930163,4.724992109930163
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Arecanut,2012,810,439.75860359170923,370.24139640829077
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Brinjal,2012,230,205.29166055720353,24.708339442796472
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Cabbage,2012,310,209.13739006182504,100.86260993817496
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Cauliflower,2012,180,183.9886186889034,3.9886186889033866
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Chilli,2012,53,27.976562741720997,25.023437258279003
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Garlic,2012,21,38.61617915201078,17.61617915201078
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Ginger,2012,980,299.62711795055924,680.3728820494407
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Ladies Finger,2012,40,31.236467493377553,8.763532506622447
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Leafy Vegetables,2012,30,70.99803479715686,40.99803479715686
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Onion,2012,290,216.04636387924236,73.95363612075764
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Potato,2012,790,574.4137451495893,215.58625485041068
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Pumpkin,2012,110,198.54385555871832,88.54385555871832
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Tomato,2012,170,173.95713147206223,3.9571314720622297
+West Garo Hills,Selsella,Garobadha Regulated Market,Apr,Turmeric,2012,340,229.07674400716988,110.92325599283012
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Arecanut,2012,5040,5027.569260260314,12.430739739686032
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Banana,2012,560,410.44265809032083,149.55734190967917
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Beetroot,2012,40,47.07031533040552,7.070315330405521
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,BetelVine,2012,1715,2300.3061665970295,585.3061665970295
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Brinjal,2012,63,102.23279488631277,39.232794886312774
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Cabbage,2012,1406,2816.526892281427,1410.526892281427
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Capsicum,2012,49,94.0466591516731,45.0466591516731
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Carrot,2012,129,245.69492639650124,116.69492639650124
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Cucumber,2012,25,113.80318217780051,88.80318217780051
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Fish,2012,4110,4591.453627872759,481.45362787275917
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,FrenchBeans,2012,148,127.7288199942509,20.271180005749102
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Ginger,2012,256,352.36028178971986,96.36028178971986
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Lettuce,2012,71,79.05444568770842,8.054445687708423
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Mustard,2012,98,106.56268307730608,8.562683077306076
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Pea,2012,85,84.76068666585786,0.23931333414213896
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Potato,2012,910,2416.165112134606,1506.1651121346058
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Pumpkin,2012,108,137.0357760585887,29.03577605858871
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Radish,2012,368,604.6737252403312,236.67372524033124
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Rice,2012,131,114.34763617597883,16.652363824021165
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Tomato,2012,1060,1632.3874459890997,572.3874459890997
+East Khasi Hills,Mylliem,Iewduh(Shillong),May,Turnip,2012,117,68.11812318189604,48.88187681810396
+East Khasi Hills,Mylliem,Mawiong Regulated Market,May,Bamboo Shoot,2012,1316,6835.788284023852,5519.788284023852
+East Khasi Hills,Mylliem,Mawiong Regulated Market,May,Broomstick,2012,19706,7775.120837720879,11930.879162279121
+East Khasi Hills,Mylliem,Mawiong Regulated Market,May,Tezpatta,2012,4777,6502.764655419119,1725.7646554191188
+Jaintia Hills,Thadlaskein,Jowai,May,Arecanut,2012,290,265.2940105068486,24.705989493151378
+Jaintia Hills,Thadlaskein,Jowai,May,Banana,2012,8,4.2120984630536835,3.7879015369463165
+Jaintia Hills,Thadlaskein,Jowai,May,Beetroot,2012,4,2.4902421662611935,1.5097578337388065
+Jaintia Hills,Thadlaskein,Jowai,May,BetelVine,2012,140,110.2111404818378,29.788859518162198
+Jaintia Hills,Thadlaskein,Jowai,May,Brinjal,2012,8,4.055222818065649,3.9447771819343513
+Jaintia Hills,Thadlaskein,Jowai,May,Cabbage,2012,12,4.550048705027113,7.449951294972887
+Jaintia Hills,Thadlaskein,Jowai,May,Carrot,2012,5,3.7499780678192263,1.2500219321807737
+Jaintia Hills,Thadlaskein,Jowai,May,Coriander,2012,0,2.2309546801019,2.2309546801019
+Jaintia Hills,Thadlaskein,Jowai,May,FrenchBeans,2012,11,4.113702331486294,6.886297668513706
+Jaintia Hills,Thadlaskein,Jowai,May,Garlic,2012,0,1.4125906856849086,1.4125906856849086
+Jaintia Hills,Thadlaskein,Jowai,May,Ginger,2012,1,2.9107366488956843,1.9107366488956843
+Jaintia Hills,Thadlaskein,Jowai,May,Leafy Vegetables,2012,0,2.27191485141705,2.27191485141705
+Jaintia Hills,Thadlaskein,Jowai,May,Litchi,2012,11,3.9162238203423234,7.083776179657677
+Jaintia Hills,Thadlaskein,Jowai,May,Plum,2012,4,3.691302166773302,0.30869783322669786
+Jaintia Hills,Thadlaskein,Jowai,May,Potato,2012,12,14.549712704488279,2.549712704488279
+Jaintia Hills,Thadlaskein,Jowai,May,Tomato,2012,12,18.395143095224,6.395143095224
+Jaintia Hills,Thadlaskein,Jowai,May,Turmeric,2012,0,1.2837463794070199,1.2837463794070199
+Jaintia Hills,Thadlaskein,Jowai,May,Turmeric(Powder),2012,0,1.075538045167654,1.075538045167654
+Ri-Bhoi,Umsning,Umsning,May,Banana,2012,35,7.322171174187805,27.677828825812195
+Ri-Bhoi,Umsning,Umsning,May,BetelVine,2012,16,12.168403360522081,3.831596639477919
+Ri-Bhoi,Umsning,Umsning,May,Cabbage,2012,3,6.848219013921618,3.848219013921618
+Ri-Bhoi,Umsning,Umsning,May,Capsicum,2012,13,7.000005104808782,5.999994895191218
+Ri-Bhoi,Umsning,Umsning,May,Carrot,2012,1,6.732174447423456,5.732174447423456
+Ri-Bhoi,Umsning,Umsning,May,Chilli,2012,12,6.974271529278451,5.025728470721549
+Ri-Bhoi,Umsning,Umsning,May,Cucumber,2012,3,6.86045124199457,3.8604512419945696
+Ri-Bhoi,Umsning,Umsning,May,Ginger,2012,84,7.195415335819559,76.80458466418044
+Ri-Bhoi,Umsning,Umsning,May,Papaya,2012,3,6.124582726409264,3.1245827264092636
+Ri-Bhoi,Umsning,Umsning,May,Pumpkin,2012,1,5.218639121488656,4.218639121488656
+Ri-Bhoi,Umsning,Umsning,May,Tomato,2012,12,8.945226559512028,3.0547734404879723
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Arecanut,2012,80,324.2312143683319,244.2312143683319
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Brinjal,2012,60,56.57978075811894,3.420219241881057
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Chilli,2012,10,26.218982331497678,16.218982331497678
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Ginger,2012,80,127.36085334904382,47.36085334904382
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Ladies Finger,2012,30,27.18865386380165,2.811346136198349
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Onion,2012,80,64.2509836121286,15.749016387871393
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Potato,2012,130,459.5891259290969,329.5891259290969
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Pumpkin,2012,80,56.010516168316855,23.989483831683145
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Radish,2012,30,51.236127123373194,21.236127123373194
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Tomato,2012,40,56.22975888947259,16.229758889472592
+West Garo Hills,Selsella,Garobadha Regulated Market,May,Turmeric,2012,70,62.302518501114406,7.697481498885594
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Arecanut,2012,5305,5000.901731118966,304.0982688810336
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Banana,2012,1050,625.9996176991891,424.0003823008109
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Beetroot,2012,103,51.08366821390764,51.91633178609236
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,BetelVine,2012,3130,2325.0710561468254,804.9289438531746
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Bitter Gourd,2012,150,163.36072580169866,13.360725801698663
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Brinjal,2012,119,144.31415633066803,25.314156330668027
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Cabbage,2012,5020,2933.444119164378,2086.555880835622
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Capsicum,2012,133,145.66628447952036,12.666284479520357
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Carrot,2012,458,442.0426375908385,15.957362409161476
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Cucumber,2012,263,179.96080461780997,83.03919538219003
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Fish,2012,5150,4727.238788396084,422.7612116039163
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,FrenchBeans,2012,409,215.44330642786556,193.55669357213444
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Ginger,2012,470,508.3082455955884,38.3082455955884
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Lettuce,2012,79,84.79271920204008,5.792719202040075
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Mustard,2012,76,139.12009252038075,63.12009252038075
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Pea,2012,118,102.96627649554554,15.033723504454457
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Peach,2012,389,229.00679616629026,159.99320383370974
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Plum,2012,785,401.2021155234805,383.7978844765195
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Potato,2012,4390,2410.9959849105344,1979.0040150894656
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Pumpkin,2012,141,217.50439773414152,76.50439773414152
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Radish,2012,925,762.355758350553,162.64424164944705
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Rice,2012,130,157.69916318254536,27.699163182545362
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Tomato,2012,3210,1945.3029655783153,1264.6970344216847
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jun,Turnip,2012,97,75.91334923049443,21.086650769505567
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jun,Broomstick,2012,19128,7775.120837720879,11352.879162279121
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jun,Potato,2012,4322,7132.965102574083,2810.965102574083
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jun,Tezpatta,2012,3180,6502.764655419119,3322.7646554191188
+Jaintia Hills,Thadlaskein,Jowai,Jun,Arecanut,2012,340,285.5568482350161,54.443151764983895
+Jaintia Hills,Thadlaskein,Jowai,Jun,Banana,2012,8,8.816677420966768,0.8166774209667675
+Jaintia Hills,Thadlaskein,Jowai,Jun,Banana (Green),2012,3,5.858267693418607,2.8582676934186066
+Jaintia Hills,Thadlaskein,Jowai,Jun,Beetroot,2012,3,3.18795785851776,0.18795785851775992
+Jaintia Hills,Thadlaskein,Jowai,Jun,BetelVine,2012,120,118.0721662030859,1.9278337969141006
+Jaintia Hills,Thadlaskein,Jowai,Jun,Brinjal,2012,8,8.728393624364987,0.7283936243649869
+Jaintia Hills,Thadlaskein,Jowai,Jun,Cabbage,2012,10,10.347529082130063,0.3475290821300625
+Jaintia Hills,Thadlaskein,Jowai,Jun,Carrot,2012,6,7.880493153434173,1.8804931534341733
+Jaintia Hills,Thadlaskein,Jowai,Jun,Coriander,2012,3,3.1924726920316244,0.19247269203162443
+Jaintia Hills,Thadlaskein,Jowai,Jun,Cucumber,2012,13,12.154529745962721,0.8454702540372789
+Jaintia Hills,Thadlaskein,Jowai,Jun,FrenchBeans,2012,14,9.127829410563118,4.872170589436882
+Jaintia Hills,Thadlaskein,Jowai,Jun,Garlic,2012,0,1.563417475547404,1.563417475547404
+Jaintia Hills,Thadlaskein,Jowai,Jun,Ginger,2012,2,5.402921323378432,3.4029213233784317
+Jaintia Hills,Thadlaskein,Jowai,Jun,Litchi,2012,6,7.800256563257085,1.8002565632570846
+Jaintia Hills,Thadlaskein,Jowai,Jun,Peach,2012,4,8.604531112866997,4.604531112866997
+Jaintia Hills,Thadlaskein,Jowai,Jun,Pineapple,2012,7,8.68145245190616,1.6814524519061607
+Jaintia Hills,Thadlaskein,Jowai,Jun,Plum,2012,11,7.875858888004458,3.1241411119955416
+Jaintia Hills,Thadlaskein,Jowai,Jun,Potato,2012,20,21.770011905971057,1.7700119059710566
+Jaintia Hills,Thadlaskein,Jowai,Jun,Tomato,2012,23,26.079173070151136,3.0791730701511355
+Jaintia Hills,Thadlaskein,Jowai,Jun,Turmeric,2012,0,1.2891194813845992,1.2891194813845992
+Jaintia Hills,Thadlaskein,Jowai,Jun,Turmeric(Powder),2012,0,1.1346814627343549,1.1346814627343549
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Arecanut,2012,450,443.22163599018324,6.778364009816755
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Brinjal,2012,130,160.96465567960303,30.964655679603027
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Cashew Nut,2012,300,189.61787052627903,110.38212947372097
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Chilli,2012,25,26.57988641075898,1.5798864107589807
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Garlic,2012,26,33.63794778030103,7.637947780301033
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Ginger,2012,60,249.4533905346248,189.4533905346248
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Ladies Finger,2012,80,27.82985827736617,52.17014172263383
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Litchi,2012,10,162.83683201633528,152.83683201633528
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Onion,2012,200,180.16694527130315,19.83305472869685
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Potato,2012,660,579.4278716080619,80.57212839193812
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Pumpkin,2012,250,161.0313631606716,88.96863683932841
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Radish,2012,100,89.78339397550388,10.216606024496116
+West Garo Hills,Selsella,Garobadha Regulated Market,Jun,Tomato,2012,120,134.96688876554367,14.966888765543672
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Arecanut,2012,5560,5027.569260260314,532.430739739686
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Banana,2012,1775,620.6790527527636,1154.3209472472363
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Beetroot,2012,93,50.75244960124556,42.24755039875444
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,BetelVine,2012,3480,2330.368299810184,1149.631700189816
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Bitter Gourd,2012,208,167.23218580483828,40.76781419516172
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Brinjal,2012,184,147.232120929276,36.76787907072401
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Cabbage,2012,4750,2919.635674648545,1830.3643253514551
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Capsicum,2012,220,151.4839943252729,68.5160056747271
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Carrot,2012,473,467.09253463527136,5.907465364728637
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Chilli,2012,51,82.13673241272417,31.13673241272417
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Cucumber,2012,337,210.4904534801517,126.5095465198483
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Fish,2012,2650,4750.9241206234765,2100.9241206234765
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,FrenchBeans,2012,356,217.05352240985619,138.94647759014381
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Ginger,2012,535,516.9685318881059,18.031468111894128
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Lettuce,2012,53,82.07237270026882,29.072372700268815
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Mustard,2012,65,139.74203033693883,74.74203033693883
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Pea,2012,31,97.58668409988793,66.58668409988793
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Peach,2012,200,226.103147406565,26.103147406565
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Pear,2012,2860,228.27888058995538,2631.7211194100446
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Pineapple,2012,2260,136.81055483081306,2123.189445169187
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Plum,2012,311,379.26904417477374,68.26904417477374
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Potato,2012,3930,2416.165112134606,1513.8348878653942
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Pumpkin,2012,257,226.08985176218684,30.91014823781316
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Radish,2012,1181,752.834471718822,428.165528281178
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Rice,2012,131,161.19973023210912,30.19973023210912
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Squash,2012,150,980.3046010773194,830.3046010773194
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Tomato,2012,3390,1924.9169149485874,1465.0830850514126
+East Khasi Hills,Mylliem,Iewduh(Shillong),Jul,Turnip,2012,91,72.48215349846521,18.51784650153479
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jul,Broomstick,2012,24808,7902.817366685612,16905.182633314387
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jul,Potato,2012,21478,7250.116391804981,14227.88360819502
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Jul,Tezpatta,2012,3141,6609.5670301548425,3468.5670301548425
+Jaintia Hills,Thadlaskein,Jowai,Jul,Arecanut,2012,480,282.4525166092776,197.5474833907224
+Jaintia Hills,Thadlaskein,Jowai,Jul,Banana,2012,14,10.16930300148301,3.8306969985169896
+Jaintia Hills,Thadlaskein,Jowai,Jul,Banana (Green),2012,4,6.100279153604962,2.100279153604962
+Jaintia Hills,Thadlaskein,Jowai,Jul,Beetroot,2012,5,3.5791200365216342,1.4208799634783658
+Jaintia Hills,Thadlaskein,Jowai,Jul,BetelVine,2012,280,117.52919940474784,162.47080059525217
+Jaintia Hills,Thadlaskein,Jowai,Jul,Bitter Gourd,2012,12,10.001838183828422,1.998161816171578
+Jaintia Hills,Thadlaskein,Jowai,Jul,Brinjal,2012,15,10.001157191096537,4.998842808903463
+Jaintia Hills,Thadlaskein,Jowai,Jul,Cabbage,2012,15,11.41970700617199,3.58029299382801
+Jaintia Hills,Thadlaskein,Jowai,Jul,Carrot,2012,13,9.045318504229307,3.954681495770693
+Jaintia Hills,Thadlaskein,Jowai,Jul,Coriander,2012,3,3.693641473120401,0.693641473120401
+Jaintia Hills,Thadlaskein,Jowai,Jul,Cucumber,2012,22,13.357182296008117,8.642817703991883
+Jaintia Hills,Thadlaskein,Jowai,Jul,FrenchBeans,2012,20,10.686313259033026,9.313686740966974
+Jaintia Hills,Thadlaskein,Jowai,Jul,Garlic,2012,0,1.7204679390969564,1.7204679390969564
+Jaintia Hills,Thadlaskein,Jowai,Jul,Ginger,2012,11,5.924305988222971,5.075694011777029
+Jaintia Hills,Thadlaskein,Jowai,Jul,Jackfruit,2012,8,9.943536015615067,1.9435360156150665
+Jaintia Hills,Thadlaskein,Jowai,Jul,Lemon,2012,8,9.482686216150716,1.4826862161507162
+Jaintia Hills,Thadlaskein,Jowai,Jul,Mango,2012,4,7.0082557305593784,3.0082557305593784
+Jaintia Hills,Thadlaskein,Jowai,Jul,Pineapple,2012,12,10.100964370148827,1.8990356298511735
+Jaintia Hills,Thadlaskein,Jowai,Jul,Plum,2012,5,8.37017496075585,3.3701749607558504
+Jaintia Hills,Thadlaskein,Jowai,Jul,Potato,2012,30,21.86199040138446,8.13800959861554
+Jaintia Hills,Thadlaskein,Jowai,Jul,Radish,2012,4,5.842193131019095,1.842193131019095
+Jaintia Hills,Thadlaskein,Jowai,Jul,Squash,2012,17,11.938300370265504,5.0616996297344965
+Jaintia Hills,Thadlaskein,Jowai,Jul,Tomato,2012,70,26.192461095372984,43.807538904627016
+Jaintia Hills,Thadlaskein,Jowai,Jul,Turmeric,2012,3,1.394350545258325,1.605649454741675
+Jaintia Hills,Thadlaskein,Jowai,Jul,Turmeric(Powder),2012,4,1.2463928172313432,2.753607182768657
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Arecanut,2012,350,401.423886376874,51.42388637687401
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Brinjal,2012,100,85.35999214350319,14.640007856496808
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Cabbage,2012,40,77.89478489778183,37.89478489778183
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Cashew Nut,2012,100,87.84333386277294,12.156666137227063
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Chilli,2012,25,26.748910780058747,1.748910780058747
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Garlic,2012,10,33.29392619554487,23.29392619554487
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Ginger,2012,130,182.81974192997424,52.81974192997424
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Jackfruit,2012,90,82.82138016501573,7.178619834984275
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Ladies Finger,2012,20,28.079451107355634,8.079451107355634
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Onion,2012,140,97.65008034752579,42.34991965247421
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Pineapple,2012,430,194.0790471087748,235.9209528912252
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Potato,2012,440,546.0423753953418,106.04237539534176
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Pumpkin,2012,80,83.73526664615034,3.735266646150336
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Radish,2012,20,66.12388963190932,46.12388963190932
+West Garo Hills,Selsella,Garobadha Regulated Market,Jul,Tomato,2012,80,83.00318120007447,3.003181200074465
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Arecanut,2012,5205,5027.569260260314,177.43073973968603
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Banana,2012,1360,653.4419873899722,706.5580126100278
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Beetroot,2012,94,58.83611869072603,35.16388130927397
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,BetelVine,2012,3630,2334.611824314284,1295.3881756857159
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Bitter Gourd,2012,258,241.82495077563266,16.175049224367342
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Bottle Gourd,2012,20,62.13504374583238,42.13504374583238
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Brinjal,2012,167,218.54549754893543,51.54549754893543
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Cabbage,2012,6100,2930.673599366443,3169.326400633557
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Capsicum,2012,1145,242.27421285502578,902.7257871449742
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Carrot,2012,870,476.8893845934356,393.1106154065644
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Cauliflower,2012,300,589.75734524427,289.75734524427
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Chilli,2012,119,115.17868691701989,3.8213130829801116
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Cucumber,2012,435,274.86587807301913,160.13412192698087
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,FrenchBeans,2012,687,299.50351859932726,387.49648140067274
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Ginger,2012,1405,531.8191563970298,873.1808436029702
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Lettuce,2012,71,97.74145200753048,26.741452007530484
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Mustard,2012,127,200.0686434946576,73.06864349465761
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Pear,2012,3595,305.7886457840369,3289.211354215963
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Pineapple,2012,4790,209.0521564878575,4580.947843512143
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Potato,2012,3700,2407.926024302014,1292.073975697986
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Pumpkin,2012,183,283.91213088983505,100.91213088983505
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Radish,2012,2085,766.9834658238533,1318.0165341761467
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Rice,2012,170,227.96767814994791,57.967678149947915
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Squash,2012,1653,1033.8812112720102,619.1187887279898
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Tomato,2012,4470,1984.0286663203835,2485.9713336796167
+East Khasi Hills,Mylliem,Iewduh(Shillong),Aug,Turnip,2012,156,92.94035283532683,63.059647164673166
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Aug,Broomstick,2012,15935,7850.396370411037,8084.603629588963
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Aug,Potato,2012,17793,7202.024346186192,10590.975653813808
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Aug,Tezpatta,2012,3920,6565.723341265849,2645.723341265849
+Jaintia Hills,Thadlaskein,Jowai,Aug,Arecanut,2012,316,287.2004352327592,28.79956476724078
+Jaintia Hills,Thadlaskein,Jowai,Aug,Banana,2012,12,11.503013128621193,0.49698687137880704
+Jaintia Hills,Thadlaskein,Jowai,Aug,Banana (Green),2012,4,8.183918526014322,4.183918526014322
+Jaintia Hills,Thadlaskein,Jowai,Aug,Beetroot,2012,3,6.076253706337614,3.0762537063376136
+Jaintia Hills,Thadlaskein,Jowai,Aug,BetelVine,2012,180,108.95030830304881,71.04969169695119
+Jaintia Hills,Thadlaskein,Jowai,Aug,Bitter Gourd,2012,12,11.763222726416283,0.23677727358371747
+Jaintia Hills,Thadlaskein,Jowai,Aug,Brinjal,2012,16,11.686627269812673,4.313372730187327
+Jaintia Hills,Thadlaskein,Jowai,Aug,Cabbage,2012,18,12.418790016672267,5.581209983327733
+Jaintia Hills,Thadlaskein,Jowai,Aug,Carrot,2012,11,11.197267645185498,0.197267645185498
+Jaintia Hills,Thadlaskein,Jowai,Aug,Coriander,2012,4,6.171759968186367,2.1717599681863673
+Jaintia Hills,Thadlaskein,Jowai,Aug,Cucumber,2012,22,13.875800842249676,8.124199157750324
+Jaintia Hills,Thadlaskein,Jowai,Aug,FrenchBeans,2012,8,11.501049009973228,3.5010490099732277
+Jaintia Hills,Thadlaskein,Jowai,Aug,Garlic,2012,51,5.41971245987422,45.58028754012578
+Jaintia Hills,Thadlaskein,Jowai,Aug,Ginger,2012,8,8.543021563615744,0.5430215636157438
+Jaintia Hills,Thadlaskein,Jowai,Aug,Jackfruit,2012,11,11.681667905835681,0.6816679058356812
+Jaintia Hills,Thadlaskein,Jowai,Aug,Mango,2012,8,10.178963620914972,2.1789636209149723
+Jaintia Hills,Thadlaskein,Jowai,Aug,Pineapple,2012,12,11.64569901959793,0.35430098040206914
+Jaintia Hills,Thadlaskein,Jowai,Aug,Potato,2012,40,20.90722701736471,19.09277298263529
+Jaintia Hills,Thadlaskein,Jowai,Aug,Radish,2012,9,9.044476276592778,0.04447627659277842
+Jaintia Hills,Thadlaskein,Jowai,Aug,Squash,2012,19,12.932668538886524,6.067331461113476
+Jaintia Hills,Thadlaskein,Jowai,Aug,Tomato,2012,72,26.192880433140413,45.80711956685958
+Jaintia Hills,Thadlaskein,Jowai,Aug,Turmeric(Powder),2012,3,2.0065221914493305,0.9934778085506695
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Arecanut,2012,250,403.7311409042245,153.7311409042245
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Banana,2012,110,86.22120231070694,23.778797689293057
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Brinjal,2012,110,88.92692675818637,21.07307324181363
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Cabbage,2012,20,78.87205023332699,58.87205023332699
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Cauliflower,2012,10,73.18026352934481,63.18026352934481
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Chilli,2012,30,26.531154797185167,3.4688452028148333
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Garlic,2012,90,33.90240960357353,56.09759039642647
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Ginger,2012,170,199.62432297979595,29.62432297979595
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Onion,2012,160,103.17947168161298,56.82052831838702
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Pineapple,2012,370,188.20468712962813,181.79531287037187
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Potato,2012,440,540.6761693160129,100.67616931601287
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Pumpkin,2012,180,87.52358715850461,92.47641284149539
+West Garo Hills,Selsella,Garobadha Regulated Market,Aug,Tomato,2012,80,82.620558527916,2.6205585279160033
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Arecanut,2012,5600,5006.516927144417,593.4830728555826
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Banana,2012,1320,682.6542399023818,637.3457600976182
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Beetroot,2012,82,111.40191365259564,29.40191365259564
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,BetelVine,2012,3290,2253.72153851201,1036.2784614879902
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Bitter Gourd,2012,258,436.21305847881473,178.21305847881473
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Brinjal,2012,414,427.18629814212323,13.186298142123235
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Cabbage,2012,5700,2830.155341717634,2869.844658282366
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Capsicum,2012,965,429.887930345424,535.112069654576
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Carrot,2012,1615,611.5370417425727,1003.4629582574273
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Cauliflower,2012,588,652.748648814346,64.74864881434598
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Chilli,2012,141,238.69765709429475,97.69765709429475
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Cucumber,2012,450,467.6200675379314,17.62006753793139
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,FrenchBeans,2012,640,491.0794256560174,148.9205743439826
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Ginger,2012,1285,633.6692188296387,651.3307811703613
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Guava,2012,285,506.5029683826902,221.5029683826902
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Lettuce,2012,47,156.15272246410447,109.15272246410447
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Mustard,2012,131,377.35745345818157,246.35745345818157
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Pear,2012,1325,555.3392438132828,769.6607561867172
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Pineapple,2012,2180,505.8213094869349,1674.178690513065
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Potato,2012,3450,2264.012475528491,1185.987524471509
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Pumpkin,2012,575,489.1526199814583,85.84738001854168
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Radish,2012,2260,804.9722079236674,1455.0277920763326
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Rice,2012,153,401.41420476276096,248.41420476276096
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Squash,2012,2030,962.8487130893279,1067.151286910672
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Tomato,2012,3080,1709.9641590306262,1370.0358409693738
+East Khasi Hills,Mylliem,Iewduh(Shillong),Sep,Turnip,2012,112,148.685834973748,36.685834973748
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Sep,Broomstick,2012,7829,7727.5254453104635,101.47455468953649
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Sep,Potato,2012,7951,7089.300160170907,861.6998398290934
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Sep,Tezpatta,2012,2793,6462.956988154217,3669.9569881542166
+Jaintia Hills,Thadlaskein,Jowai,Sep,Arecanut,2012,165,286.85361156433464,121.85361156433464
+Jaintia Hills,Thadlaskein,Jowai,Sep,Banana,2012,3,4.721912287884291,1.7219122878842912
+Jaintia Hills,Thadlaskein,Jowai,Sep,BetelVine,2012,70,118.0721662030859,48.0721662030859
+Jaintia Hills,Thadlaskein,Jowai,Sep,Bitter Gourd,2012,4,4.392494334624719,0.39249433462471917
+Jaintia Hills,Thadlaskein,Jowai,Sep,Brinjal,2012,7,4.632060496431742,2.367939503568258
+Jaintia Hills,Thadlaskein,Jowai,Sep,Cabbage,2012,6,5.3823464417543345,0.6176535582456655
+Jaintia Hills,Thadlaskein,Jowai,Sep,Carrot,2012,4,4.444955455496541,0.44495545549654114
+Jaintia Hills,Thadlaskein,Jowai,Sep,Coriander,2012,3,2.804366692836713,0.1956333071632872
+Jaintia Hills,Thadlaskein,Jowai,Sep,Cucumber,2012,5,4.959930218341607,0.04006978165839303
+Jaintia Hills,Thadlaskein,Jowai,Sep,FrenchBeans,2012,4,4.671355586980343,0.6713555869803427
+Jaintia Hills,Thadlaskein,Jowai,Sep,Garlic,2012,0,1.2751175844624418,1.2751175844624418
+Jaintia Hills,Thadlaskein,Jowai,Sep,Ginger,2012,3,3.621236224925325,0.6212362249253252
+Jaintia Hills,Thadlaskein,Jowai,Sep,Jackfruit,2012,5,4.457857248813013,0.5421427511869874
+Jaintia Hills,Thadlaskein,Jowai,Sep,Pineapple,2012,6,4.5611319250392865,1.4388680749607135
+Jaintia Hills,Thadlaskein,Jowai,Sep,Potato,2012,15,20.04318773997349,5.04318773997349
+Jaintia Hills,Thadlaskein,Jowai,Sep,Radish,2012,3,3.791774163206096,0.791774163206096
+Jaintia Hills,Thadlaskein,Jowai,Sep,Squash,2012,7,4.818952694561326,2.181047305438674
+Jaintia Hills,Thadlaskein,Jowai,Sep,Tomato,2012,20,23.405983989230798,3.4059839892307977
+Jaintia Hills,Thadlaskein,Jowai,Sep,Turmeric,2012,2,1.3513391448772474,0.6486608551227526
+West Garo Hills,Rongram,Tura,Sep,Arecanut,2012,160,247.97521771982005,87.97521771982005
+West Garo Hills,Rongram,Tura,Sep,Ash Gourd,2012,60,57.952465070928774,2.047534929071226
+West Garo Hills,Rongram,Tura,Sep,Brinjal,2012,105,58.69649553082022,46.30350446917978
+West Garo Hills,Rongram,Tura,Sep,Chilli,2012,70,28.64454155587123,41.35545844412877
+West Garo Hills,Rongram,Tura,Sep,Cowpea,2012,10,36.339853224176515,26.339853224176515
+West Garo Hills,Rongram,Tura,Sep,Garlic,2012,40,33.84127827122879,6.158721728771212
+West Garo Hills,Rongram,Tura,Sep,Ginger,2012,18,82.6116444000429,64.6116444000429
+West Garo Hills,Rongram,Tura,Sep,Onion,2012,170,65.7615303015897,104.2384696984103
+West Garo Hills,Rongram,Tura,Sep,Potato,2012,260,286.60164666348373,26.601646663483734
+West Garo Hills,Rongram,Tura,Sep,Pumpkin,2012,70,57.94314016359543,12.05685983640457
+West Garo Hills,Rongram,Tura,Sep,Ridge Gourd,2012,60,56.80160188781713,3.198398112182872
+West Garo Hills,Rongram,Tura,Sep,Sponge Gourd,2012,60,56.63380551656519,3.3661944834348105
+West Garo Hills,Rongram,Tura,Sep,Squash,2012,45,49.59365950206947,4.593659502069471
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Arecanut,2012,290,389.30169656915314,99.30169656915314
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Brinjal,2012,120,103.13211709454427,16.86788290545573
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Cabbage,2012,110,98.22644449414196,11.773555505858042
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Cauliflower,2012,40,85.0928538774595,45.092853877459504
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Chilli,2012,25,26.89056409107285,1.89056409107285
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Garlic,2012,16,33.79228641180382,17.792286411803822
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Ginger,2012,300,193.38294114771972,106.61705885228028
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Jute,2012,160,104.02669667636056,55.97330332363944
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Onion,2012,160,120.27891438948394,39.721085610516056
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Potato,2012,512,514.8928866626806,2.892886662680553
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Pumpkin,2012,100,102.3850965348265,2.385096534826502
+West Garo Hills,Selsella,Garobadha Regulated Market,Sep,Tomato,2012,80,97.00312858923301,17.003128589233015
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Arecanut,2012,4730,5027.569260260314,297.56926026031397
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Ash Gourd,2012,7,182.80469505938152,175.80469505938152
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Banana,2012,1090,613.7087508194528,476.2912491805472
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Beetroot,2012,71,52.78215800519373,18.21784199480627
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,BetelVine,2012,2830,2330.368299810184,499.631700189816
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Bitter Gourd,2012,141,166.8631367664797,25.8631367664797
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Brinjal,2012,115,144.97667568965113,29.97667568965113
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Cabbage,2012,3930,2928.7162744596762,1001.2837255403238
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Capsicum,2012,225,147.416336181187,77.583663818813
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Carrot,2012,1495,470.498959866556,1024.501040133444
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Cauliflower,2012,920,603.3036281529614,316.69637184703856
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Chilli,2012,97,83.66515663480037,13.334843365199632
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Cucumber,2012,216,188.88363374274778,27.116366257252224
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,FrenchBeans,2012,438,211.710214282389,226.289785717611
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Ginger,2012,990,516.2843795245108,473.71562047548923
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Guava,2012,437,257.6554584144853,179.34454158551472
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Lettuce,2012,51,82.90949988580412,31.909499885804124
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Mustard,2012,117,142.24031388175288,25.240313881752883
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Orange,2012,165,363.9806865135628,198.98068651356277
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Pea,2012,32,99.1856965724984,67.1856965724984
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Pear,2012,240,223.31783572938394,16.682164270616056
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Pineapple,2012,55,124.20521222718261,69.20521222718261
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Potato,2012,2670,2416.165112134606,253.8348878653942
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Pumpkin,2012,426,227.3821157957736,198.6178842042264
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Radish,2012,1870,749.5978746910001,1120.402125309
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Rice,2012,116,165.3174453289248,49.317445328924805
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Squash,2012,1225,1023.3165748819349,201.6834251180651
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Tomato,2012,2310,1948.811105116825,361.18889488317495
+East Khasi Hills,Mylliem,Iewduh(Shillong),Oct,Turnip,2012,96,72.77671189134004,23.223288108659958
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Oct,Broomstick,2012,2288,7093.425054095588,4805.425054095588
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Oct,Potato,2012,5499,6509.266632382613,1010.2666323826134
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Oct,Tezpatta,2012,2100,5982.298799516241,3882.298799516241
+Jaintia Hills,Thadlaskein,Jowai,Oct,Arecanut,2012,170,287.0780211809587,117.07802118095867
+Jaintia Hills,Thadlaskein,Jowai,Oct,Banana,2012,4,5.165475219780643,1.1654752197806433
+Jaintia Hills,Thadlaskein,Jowai,Oct,Beetroot,2012,2,3.0600570045545252,1.0600570045545252
+Jaintia Hills,Thadlaskein,Jowai,Oct,BetelVine,2012,75,118.0721662030859,43.0721662030859
+Jaintia Hills,Thadlaskein,Jowai,Oct,Bitter Gourd,2012,3,4.798130782091556,1.7981307820915564
+Jaintia Hills,Thadlaskein,Jowai,Oct,Brinjal,2012,5,5.117400018159954,0.11740001815995438
+Jaintia Hills,Thadlaskein,Jowai,Oct,Cabbage,2012,10,6.113319554528086,3.8866804454719137
+Jaintia Hills,Thadlaskein,Jowai,Oct,Carrot,2012,6,4.8526064915135425,1.1473935084864575
+Jaintia Hills,Thadlaskein,Jowai,Oct,Cauliflower,2012,10,6.430684960179917,3.569315039820083
+Jaintia Hills,Thadlaskein,Jowai,Oct,Coriander,2012,1,2.821924607036289,1.821924607036289
+Jaintia Hills,Thadlaskein,Jowai,Oct,Cucumber,2012,6,5.651284740067971,0.3487152599320291
+Jaintia Hills,Thadlaskein,Jowai,Oct,FrenchBeans,2012,5,5.112325253493278,0.11232525349327815
+Jaintia Hills,Thadlaskein,Jowai,Oct,Garlic,2012,1,1.5011143110874956,0.5011143110874956
+Jaintia Hills,Thadlaskein,Jowai,Oct,Ginger,2012,2,4.199919383729477,2.199919383729477
+Jaintia Hills,Thadlaskein,Jowai,Oct,Guava,2012,6,4.959315438138258,1.0406845618617417
+Jaintia Hills,Thadlaskein,Jowai,Oct,Lemon,2012,3,4.710350363466409,1.710350363466409
+Jaintia Hills,Thadlaskein,Jowai,Oct,Potato,2012,12,19.123826135358613,7.1238261353586125
+Jaintia Hills,Thadlaskein,Jowai,Oct,Radish,2012,5,4.1215199510371265,0.8784800489628735
+Jaintia Hills,Thadlaskein,Jowai,Oct,Squash,2012,3,5.123034914675099,2.123034914675099
+Jaintia Hills,Thadlaskein,Jowai,Oct,Tomato,2012,10,24.72684466540532,14.72684466540532
+Jaintia Hills,Thadlaskein,Jowai,Oct,Turmeric,2012,0,1.3289926747339473,1.3289926747339473
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Arecanut,2012,210,415.99310621076535,205.99310621076535
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Brinjal,2012,80,97.79443120238189,17.794431202381887
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Cabbage,2012,90,92.97793271989168,2.977932719891683
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Cauliflower,2012,80,84.30389529425231,4.303895294252314
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Chilli,2012,15,26.66504659739294,11.66504659739294
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Ginger,2012,310,243.51580371323388,66.48419628676612
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Ladies Finger,2012,10,27.42227345788812,17.42227345788812
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Onion,2012,150,115.630918656389,34.369081343611
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Potato,2012,410,559.983174445278,149.983174445278
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Pumpkin,2012,160,97.63816771762978,62.361832282370216
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Squash,2012,30,59.8907946808858,29.890794680885797
+West Garo Hills,Selsella,Garobadha Regulated Market,Oct,Tomato,2012,70,90.40091618275059,20.400916182750592
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Arecanut,2012,5100,5027.569260260314,72.43073973968603
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Banana,2012,1070,635.1208030371135,434.87919696288645
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Beetroot,2012,56,49.2838331836199,6.7161668163801025
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,BetelVine,2012,2990,2330.368299810184,659.631700189816
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Bitter Gourd,2012,111,153.5523987771887,42.5523987771887
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Brinjal,2012,85,140.56602229661956,55.566022296619565
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Cabbage,2012,3270,2938.165271443135,331.8347285568648
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Capsicum,2012,19,128.125760990392,109.125760990392
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Carrot,2012,1840,463.43266685139025,1376.5673331486098
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Cauliflower,2012,1395,628.0054931231667,766.9945068768333
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Chilli,2012,57,83.60980527553163,26.609805275531627
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Cucumber,2012,40,156.19257922360484,116.19257922360484
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,FrenchBeans,2012,276,213.61129025300062,62.38870974699938
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Ginger,2012,1485,521.0820052169004,963.9179947830996
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Guava,2012,228,232.67739851314823,4.677398513148233
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Lettuce,2012,86,84.69710231045387,1.3028976895461284
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Mustard,2012,193,138.91258439273324,54.08741560726676
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Orange,2012,2060,346.23099569497276,1713.7690043050272
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Pea,2012,143,100.78098619759062,42.21901380240938
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Potato,2012,2990,2386.287715314275,603.7122846857251
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Pumpkin,2012,771,224.2904761747736,546.7095238252264
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Radish,2012,2025,755.3177693356253,1269.6822306643749
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Rice,2012,155,156.45482875457552,1.4548287545755159
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Squash,2012,875,977.6392198480363,102.6392198480363
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Tomato,2012,4070,1885.9767235657198,2184.02327643428
+East Khasi Hills,Mylliem,Iewduh(Shillong),Nov,Turnip,2012,97,73.5179399582825,23.482060041717503
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Nov,Broomstick,2012,486,4930.519569441554,4444.519569441554
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Nov,Potato,2012,6701,4582.621082221154,2118.378917778846
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Nov,Tezpatta,2012,2055,4330.591090356136,2275.591090356136
+Jaintia Hills,Thadlaskein,Jowai,Nov,Arecanut,2012,160,289.16397297654294,129.16397297654294
+Jaintia Hills,Thadlaskein,Jowai,Nov,Banana,2012,10,9.377835495872613,0.6221645041273867
+Jaintia Hills,Thadlaskein,Jowai,Nov,Beetroot,2012,6,3.5684828840671923,2.4315171159328077
+Jaintia Hills,Thadlaskein,Jowai,Nov,BetelVine,2012,100,118.0721662030859,18.0721662030859
+Jaintia Hills,Thadlaskein,Jowai,Nov,Black Pepper,2012,0,1.4891276514304148,1.4891276514304148
+Jaintia Hills,Thadlaskein,Jowai,Nov,Brinjal,2012,10,9.258684336485809,0.7413156635141913
+Jaintia Hills,Thadlaskein,Jowai,Nov,Cabbage,2012,10,10.792313605016014,0.7923136050160142
+Jaintia Hills,Thadlaskein,Jowai,Nov,Carrot,2012,7,8.366510134787502,1.366510134787502
+Jaintia Hills,Thadlaskein,Jowai,Nov,Cauliflower,2012,16,11.408035139240258,4.591964860759742
+Jaintia Hills,Thadlaskein,Jowai,Nov,Coriander,2012,6,3.523352333496878,2.476647666503122
+Jaintia Hills,Thadlaskein,Jowai,Nov,Cowpea,2012,10,9.323910339721333,0.6760896602786666
+Jaintia Hills,Thadlaskein,Jowai,Nov,FrenchBeans,2012,5,9.212992802717203,4.212992802717203
+Jaintia Hills,Thadlaskein,Jowai,Nov,Garlic,2012,0,1.680512180372685,1.680512180372685
+Jaintia Hills,Thadlaskein,Jowai,Nov,Guava,2012,13,9.875267907694667,3.124732092305333
+Jaintia Hills,Thadlaskein,Jowai,Nov,Orange,2012,20,12.1907240175041,7.809275982495899
+Jaintia Hills,Thadlaskein,Jowai,Nov,Potato,2012,50,21.901603912898867,28.098396087101133
+Jaintia Hills,Thadlaskein,Jowai,Nov,Radish,2012,10,5.787522191646104,4.212477808353896
+Jaintia Hills,Thadlaskein,Jowai,Nov,Squash,2012,12,11.197730040419986,0.8022699595800145
+Jaintia Hills,Thadlaskein,Jowai,Nov,Tomato,2012,30,26.402818516854826,3.5971814831451745
+Jaintia Hills,Thadlaskein,Jowai,Nov,Turmeric(Powder),2012,1,1.181114284039118,0.181114284039118
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Arecanut,2012,490,442.80169302059875,47.19830697940125
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Brinjal,2012,160,164.6979831983844,4.6979831983844065
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Cabbage,2012,220,155.71160927072103,64.28839072927897
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Cauliflower,2012,220,147.0431220641886,72.9568779358114
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Chilli,2012,7,26.57988641075898,19.57988641075898
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Ginger,2012,470,287.4382078771993,182.56179212280068
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Ladies Finger,2012,30,27.85485669946162,2.145143300538379
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Onion,2012,260,182.6492439846155,77.35075601538449
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Orange,2012,140,156.77571686339996,16.775716863399964
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Potato,2012,630,579.4278716080619,50.57212839193812
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Radish,2012,100,88.42658893863674,11.57341106136326
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Tomato,2012,120,136.01607185431192,16.016071854311917
+West Garo Hills,Selsella,Garobadha Regulated Market,Nov,Turmeric,2012,220,191.37890590164147,28.621094098358526
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Arecanut,2012,4830,5027.569260260314,197.56926026031397
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Banana,2012,860,573.6783412651123,286.3216587348877
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Beetroot,2012,9,49.51090009108809,40.51090009108809
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,BetelVine,2012,2005,2330.368299810184,325.368299810184
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Bitter Gourd,2012,9,150.83043691249694,141.83043691249694
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Brinjal,2012,88,131.43765474157996,43.43765474157996
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Cabbage,2012,2110,2836.1580070182845,726.1580070182845
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Carrot,2012,452,391.22410858108947,60.77589141891053
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Cauliflower,2012,660,562.3637527299793,97.6362472700207
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Chilli,2012,44,78.91028968314508,34.91028968314508
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,FrenchBeans,2012,32,162.3223223444538,130.3223223444538
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Ginger,2012,1180,456.9010542178133,723.0989457821868
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Lettuce,2012,120,85.0461882493331,34.9538117506669
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Mustard,2012,344,141.0720475918638,202.9279524081362
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Orange,2012,1465,381.4085803590627,1083.5914196409374
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Pea,2012,306,108.36912974120669,197.63087025879332
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Potato,2012,2610,2416.165112134606,193.8348878653942
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Pumpkin,2012,750,196.70494889843545,553.2950511015646
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Radish,2012,1700,706.9481027739242,993.0518972260758
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Rice,2012,201,150.9965031517002,50.00349684829979
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Squash,2012,39,910.7709821835991,871.7709821835991
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Tomato,2012,1785,1925.629707721687,140.62970772168705
+East Khasi Hills,Mylliem,Iewduh(Shillong),Dec,Turnip,2012,100,72.94224893511124,27.057751064888762
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Dec,Broomstick,2012,1014,6725.895896768189,5711.895896768189
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Dec,Potato,2012,4803,6207.708123593442,1404.708123593442
+East Khasi Hills,Mylliem,Mawiong Regulated Market,Dec,Tezpatta,2012,3655,5753.893255539151,2098.893255539151
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Arecanut,2012,365,444.65666707727337,79.65666707727337
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Brinjal,2012,150,178.55152824960675,28.551528249606747
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Cabbage,2012,260,176.69193062913823,83.30806937086177
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Cauliflower,2012,250,165.66219120478107,84.33780879521893
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Chilli,2012,10,27.247519159069952,17.247519159069952
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Ginger,2012,440,292.99532042649736,147.00467957350264
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Ladies Finger,2012,20,28.833960841545775,8.833960841545775
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Onion,2012,180,193.83161095069033,13.831610950690333
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Orange,2012,150,170.47326860569314,20.473268605693136
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Potato,2012,460,575.1927802705349,115.19278027053485
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Radish,2012,150,104.19751260814108,45.80248739185892
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Tomato,2012,90,146.8589583993353,56.85895839933531
+West Garo Hills,Selsella,Garobadha Regulated Market,Dec,Turmeric,2012,290,205.5536903804041,84.4463096195959
